@@ -1,7 +1,8 @@
 import subprocess
 
 def install_package():
-    subprocess.run(["pip", "install", "--upgrade", "git+https://github.com/jpgallegoar/Spanish-F5"], check=True)
+    subprocess.run(["pip", "install", "--upgrade", "git+https://github.com/jpgallegoar/Spanish-F5", "--no-cache-dir"], check=True)
+
 
 # Install the package on startup
 install_package()
