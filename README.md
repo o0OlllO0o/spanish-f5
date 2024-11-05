@@ -11,4 +11,4 @@ license: cc-by-nd-4.0
 short_description: Spanish finetune for the original F5 model.
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+(Model link)[https://huggingface.co/jpgallegoar/F5-Spanish]
